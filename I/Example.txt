@@ -1,0 +1,7 @@
+
+    >>> from Example import factorial
+
+Now use it:
+
+    >>> factorial(6)
+    120
